@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/headless_wordpress/static/css/main.1cd5abdb.css",
-    "main.js": "/headless_wordpress/static/js/main.ab33a919.js",
+    "main.js": "/headless_wordpress/static/js/main.396e052d.js",
     "static/media/saff.otf": "/headless_wordpress/static/media/saff.0255a3107451e9e0e3d7.otf",
     "index.html": "/headless_wordpress/index.html",
     "main.1cd5abdb.css.map": "/headless_wordpress/static/css/main.1cd5abdb.css.map",
-    "main.ab33a919.js.map": "/headless_wordpress/static/js/main.ab33a919.js.map"
+    "main.396e052d.js.map": "/headless_wordpress/static/js/main.396e052d.js.map"
   },
   "entrypoints": [
     "static/css/main.1cd5abdb.css",
-    "static/js/main.ab33a919.js"
+    "static/js/main.396e052d.js"
   ]
 }
